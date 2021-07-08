@@ -39,7 +39,7 @@ Ahora veamos los pasos para instalar cada una de las herramientas que necesitare
    Aqui ya es mas de tu preferencia, buscas visual studio y descargas la version que creas que necesites, claro teniendo en cuenta la compatibilidad que tenga con las tecnologias que quieres usar
    ```
 3. Git
-   ```JS
+   ```
    Buscas y descargas git, que es git para aquellos que no lo sepan es un software o herramienta que nos ayuda a mantener o llevar el control de las versiones de todos nuestros programas y aplicaciones. 
 
    Para saber la version que tienes vas a tu cmd y usas "git -v" para saber la version que tienes o si lo tienes instalado. 
